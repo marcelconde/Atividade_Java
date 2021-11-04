@@ -29,3 +29,17 @@ Vamos ver apenas 5 `tipos de dados`
 * Divisão real entre dois números (/);
 * Divisão inteira entre dois números inteiros (/);
 * Resto da divisão inteira entre dois números inteiros (%).
+
+## Operadores relacionais
+* Igual a (==);
+* Diferente de (!=);
+* Maior que (>);
+* Menor que (<);
+* Maior ou igual a (>=);
+* Menor ou igual a (<=).
+
+## Operadores lógicos
+* E (AND);
+* OU (OR);
+* NÃO (NOT).
+ 
