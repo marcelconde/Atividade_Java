@@ -22,3 +22,10 @@ Vamos ver apenas 5 `tipos de dados`
 `As variáveis seram criadas com base nos tipos de dados`
 
 # Operadores
+## Operadores aritméticos 
+* Adição (+);
+* Subtração (-);
+* Multiplicação (*);
+* Divisão real entre dois números (/);
+* Divisão inteira entre dois números inteiros (/);
+* Resto da divisão inteira entre dois números inteiros (%).
