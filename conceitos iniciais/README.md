@@ -15,3 +15,6 @@ Oii pessoal, hoje vou fazer um breve resumo de alguns conceitos iniciais do `Jav
 Vamos ver apenas 5 `tipos de dados`
 * Inteiro (int) = Para representar números inteiros
 * Real (double) = Para representar números que podem ser fracionados
+* Lógico (booleano) = Para representar estado ou situação de verdadeiro ou falso
+* Caractere (string) = Utilizado para armazenar um único caractere na memória
+* Cadeira de caracteres (string) = Utilizado para armazenar uma sequência de caracteres na memória
