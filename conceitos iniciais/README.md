@@ -44,3 +44,7 @@ Vamos ver apenas 5 `tipos de dados`
 * NÃO (NOT).
  
  `Os símbolos dos operadores booleanos são: (! - não)   (& - E)   (| - ou)`
+ Para a montagem de algumas expressões, vamos precisar seguir uma ordem correta dos operadores.
+ que é essa na imagem a seguir:
+ <img scr= "https://media.discordapp.net/attachments/722281505786953749/905953170340057138/Captura_de_tela_de_2021-11-04_19-48-10.png">
+ 
