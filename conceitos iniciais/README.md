@@ -43,4 +43,4 @@ Vamos ver apenas 5 `tipos de dados`
 * OU (OR);
 * NÃO (NOT).
  
- `Os símbolos dos operadores booleanos são: ! - não   & - E   | - ou`
+ `Os símbolos dos operadores booleanos são: (! - não)   (& - E)   (| - ou)`
