@@ -12,4 +12,6 @@ Oii pessoal, hoje vou fazer um breve resumo de alguns conceitos iniciais do `Jav
 * Comandos de condição ou seleção;
 * Comandos de repetição.
 
-    
+Vamos ver apenas 5 `tipos de dados`
+* Inteiro (int) = Para representar números inteiros
+* Real (double) = Para representar números que podem ser fracionados
