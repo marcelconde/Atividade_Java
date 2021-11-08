@@ -115,3 +115,20 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
         System.out.println("O saldo atual é:" + saldo);
 
 
+# Exemplo de código com entrada e saida de dados
+    import java.util.Scanner;
+    
+    public class exercicio{
+        public static void main(String[] args){
+            int numero1, numero2;
+            double media = 0;
+
+        System.out.println("digite dois numeros");
+        Scanner s = new Scanner(System.in);
+        numero1 = s.nextInt();
+        numero2 = s.nextInt();
+
+        media = (numero1 + numero2)/ 2;
+        System.out.println("a média é:" + media);
+        }
+    }
