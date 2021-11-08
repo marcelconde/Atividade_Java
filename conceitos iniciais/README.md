@@ -72,12 +72,13 @@ Vamos ver apenas 5 `tipos de dados`
   # ATRIBUIÇÃO
    Atribuição, como o próprio nome já diz, atribui ou associa um valor a uma variável ou constante.
 
-        `nome = "josé";`
-        `media = (nota1 + nota2)/2; `
-        ` <nomefunção> (<parâmetro1>, <parâmetro2>, ...) `
+        nome = "josé";
+        media = (nota1 + nota2)/2;
+         <nomefunção> (<parâmetro1>, <parâmetro2>, ...)
 
 # Comando de entrada de dados em
 Para fazer a leitura de dados do teclado em programas Java, utilizaremos o objeto Scanner:
 
-    ` Scanner s = new Scanner(System.in);`
-    `   int numero = s.nextInt();`
+    Scanner s = new Scanner(System.in);
+    int numero = s.nextInt();
+
