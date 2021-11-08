@@ -92,7 +92,7 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
 
 Antes de começar a programar, devemos entender um pouco sobre a estrutura do código.
 
-    Todas as linguagens de programação precisam ser convertidas para o código binário, que é a linguagem que a máquina entende, para isso, 
+Todas as linguagens de programação precisam ser convertidas para o código binário, que é a linguagem que a máquina entende, para isso, 
 utilizamos a IDE (Ambiente de desenvolvimento integrado), ela funciona como um tradutor/conversor, converte o que estamos escrevendo 
 para uma linguagem que o computador entenda, nesse caso, o código binário. No caso do Java, quando compilamos o código um novo 
 arquivo é criado, esse arquivo tem terminação `.class`, se trata do binário do java. Temos que declarar esse binário para que possamos 
