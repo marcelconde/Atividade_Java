@@ -97,9 +97,20 @@ Para fazer a leitura de dados do teclado em programas Java, utilizaremos o objet
 
     Scanner s = new Scanner(System.in);
     int numero = s.nextInt();
+    double numero = s.nextdouble();
+`s é o nome dado ao Scanner, pode ser qualquer outro nome da sua preferência `
 
 O objeto Scanner pode ser usado com variáveis numéricas, lógicas e do tipo texto.
 
 Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o seguinte comando no começo do código: 
 
     import java.util.Scanner;
+
+# Comando de saída de dados
+
+* Para escrevermos na tela, usaremos a função println, disponível no Java.
+* Para concatenar uma variável com um texto, usamos o sinal +.
+    <System.out.println(variável ou expressão ou mensagem);>
+    System.out.println("O saldo atual é:" + saldo);
+
+
