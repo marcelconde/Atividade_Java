@@ -2,7 +2,7 @@
 Oii pessoal, hoje vou fazer um breve resumo de alguns conceitos iniciais do `Java`.
 
 # Algorítmos
-##    Estrutura de dados
+## Estrutura de dados
 
 * Tipos de Dados;
 * Variáveis;
@@ -64,7 +64,7 @@ Vamos ver apenas 5 `tipos de dados`
  * apagadas da memória;
  * Só podem armazenar um dado por vez.
  
- `Nomes de Variáveis`
+## Nomes de Variáveis
   * O nome de uma variável deve ser único dentro de um mesmo algoritmo.
   * Deve começar por uma letra, podendo-se incluir após esta letra outras letras, dígitos ou o sinal de        underline ( _ ). Este tipo de nome é conhecido como identificador.
   * O identificador não pode possuir acentos, nem ser igual ao nome de um comando.
