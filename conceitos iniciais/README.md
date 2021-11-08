@@ -111,7 +111,7 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
 * Para escrevermos na tela, usaremos a função println, disponível no Java.
 * Para concatenar uma variável com um texto, usamos o sinal +.
 
-    System.out.println(variável ou expressão ou mensagem);
-    System.out.println("O saldo atual é:" + saldo);
+        System.out.println(variável ou expressão ou mensagem);
+        System.out.println("O saldo atual é:" + saldo);
 
 
