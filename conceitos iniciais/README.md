@@ -85,4 +85,4 @@ Para fazer a leitura de dados do teclado em programas Java, utilizaremos o objet
 O objeto Scanner pode ser usado com variáveis numéricas, lógicas e do tipo texto.
 
 Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o seguinte comando no começo do código: 
-    import java.util.Scanner;
+        import java.util.Scanner;
