@@ -120,8 +120,8 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
     
     public class exercicio{
         public static void main(String[] args){
-            int numero1, numero2;
-            double media = 0;
+        int numero1, numero2;
+        double media = 0;
 
         System.out.println("digite dois numeros");
         Scanner s = new Scanner(System.in);
@@ -132,3 +132,24 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
         System.out.println("a média é:" + media);
         }
     }
+
+# Strings
+
+* Implementam o tipo de cadeia de caracteres em Java;
+* Em Java, Strings são objetos que disponibilizam um conjunto de funções que podem ser usadas pelo usuário.
+* Pode-se concatenar uma String com uma variável ou expressão com o sinal de +
+        String S1 = "Exemplo de string"
+
+# Igualdade de Strings
+* para fazer comparações com strings utilizamos o método `equals`;
+* Essa comparação diferencia letras maiúsculas e minúsculas 
+* Para ignorar a comparação de letras maiúsculas e minúsculas utilizamos o método `equalsIgnoreCase`
+
+        String s1 = "Banana"
+        String s2 = "banana"
+        System.out.println("método equals =" + s1.equals(s2))
+        System.out.println("método equals =" + s1.equalsIgnoreCase(s2))
+* o resultado impressora será:
+        método equals = false
+        método equalsIgnoreCase = true
+        
