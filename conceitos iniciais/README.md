@@ -77,5 +77,7 @@ Vamos ver apenas 5 `tipos de dados`
 
 # Comando de entrada de dados em
 Para fazer a leitura de dados do teclado em programas Java, utilizaremos o objeto Scanner:
+
 ` Scanner s = new Scanner(System.in);`
+
 `   int numero = s.nextInt();`
