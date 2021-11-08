@@ -74,11 +74,15 @@ Vamos ver apenas 5 `tipos de dados`
 
         nome = "josé";
         media = (nota1 + nota2)/2;
-         <nomefunção> (<parâmetro1>, <parâmetro2>, ...)
+        <nomefunção> (<parâmetro1>, <parâmetro2>, ...)
 
-# Comando de entrada de dados em
+# Comando de entrada de dados
 Para fazer a leitura de dados do teclado em programas Java, utilizaremos o objeto Scanner:
 
     Scanner s = new Scanner(System.in);
     int numero = s.nextInt();
 
+O objeto Scanner pode ser usado com variáveis numéricas, lógicas e do tipo texto.
+
+Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o seguinte comando no começo do código: 
+    import java.util.Scanner;
