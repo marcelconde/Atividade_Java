@@ -142,8 +142,8 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
 
 # Igualdade de Strings
 * para fazer comparações com strings utilizamos o método `equals`;
-* Essa comparação diferencia letras maiúsculas e minúsculas 
-* Para ignorar a comparação de letras maiúsculas e minúsculas utilizamos o método `equalsIgnoreCase`
+* Essa comparação diferencia letras maiúsculas e minúsculas;
+* Para ignorar a comparação de letras maiúsculas e minúsculas utilizamos o método `equalsIgnoreCase`;
 
         String s1 = "Banana"
         String s2 = "banana"
@@ -154,3 +154,9 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
 
         método equals = false
         método equalsIgnoreCase = true
+
+# Manipulação de Strings
+
+* String .length() -> Retorna o comprimento da string;
+* int indexOf(String s) → Retorna a posição da primeira ocorrência da substring s na String;
+* char charAt(int índice) → Retorna o caractere na posição apontada por índice (o primeiro caractere está na posição 0).
