@@ -149,7 +149,8 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
         String s2 = "banana"
         System.out.println("método equals =" + s1.equals(s2))
         System.out.println("método equals =" + s1.equalsIgnoreCase(s2))
+
 * o resultado impressora será:
+
         método equals = false
         método equalsIgnoreCase = true
-        
