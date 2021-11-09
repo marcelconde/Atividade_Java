@@ -157,6 +157,11 @@ Obs. Para o Scanner funcionar, devemos importar ele, fazemos isso digitando o se
 
 # Manipulação de Strings
 
-* String .length() -> Retorna o comprimento da string;
+* String .length() → Retorna o comprimento da string;
 * int indexOf(String s) → Retorna a posição da primeira ocorrência da substring s na String;
 * char charAt(int índice) → Retorna o caractere na posição apontada por índice (o primeiro caractere está na posição 0).
+
+    String nome = "Marcel";
+    System.out.println("Marcel tem nome.length());
+
+`
